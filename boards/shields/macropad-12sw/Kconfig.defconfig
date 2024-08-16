@@ -1,0 +1,6 @@
+if MACROPAD_12SW
+
+config ZMK_KEYBOARD_NAME
+    default "Macropad 12"
+
+endif

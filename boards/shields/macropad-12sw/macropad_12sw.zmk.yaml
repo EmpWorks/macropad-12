@@ -1,0 +1,8 @@
+file_format: "1"
+id: macropad_12sw
+name: Macropad 12
+type: shield
+url: https://github.com/Smartich0ke/macropad-12
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
