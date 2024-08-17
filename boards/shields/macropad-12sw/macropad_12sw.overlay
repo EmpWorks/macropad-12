@@ -58,7 +58,7 @@ RC(3,0) RC(3,1) RC(3,2)
             low-power-enable;
         };
     };
-};
+    };
 
     &spi3 {
     compatible = "nordic,nrf-spim";
